@@ -1,0 +1,14 @@
+MCAL/ADC/ADC_prg.o MCAL/ADC/ADC_prg.o: ../MCAL/ADC/ADC_prg.c \
+  ../MCAL/ADC/../../LIB/STD_Types.h ../MCAL/ADC/../../LIB/BIT_Utils.h \
+  ../MCAL/ADC/ADC_prv.h ../MCAL/ADC/ADC_int.h \
+  ../MCAL/ADC/../GLOBAL_INT/GLOBAL_INT_int.h
+
+../MCAL/ADC/../../LIB/STD_Types.h:
+
+../MCAL/ADC/../../LIB/BIT_Utils.h:
+
+../MCAL/ADC/ADC_prv.h:
+
+../MCAL/ADC/ADC_int.h:
+
+../MCAL/ADC/../GLOBAL_INT/GLOBAL_INT_int.h:
